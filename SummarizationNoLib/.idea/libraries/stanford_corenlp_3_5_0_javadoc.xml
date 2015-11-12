@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="stanford-corenlp-3.5.0-javadoc">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/stanford-corenlp-3.5.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
